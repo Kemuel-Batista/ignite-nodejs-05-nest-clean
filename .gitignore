@@ -36,6 +36,8 @@ lerna-debug.log*
 
 # ENVIROMENT
 .env
+private_key.pem
+public_key.pem
 
 # DOCKER
 data
